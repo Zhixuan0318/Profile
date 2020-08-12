@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #68b0ab;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #158467;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #68b0ab;
+}
+
+.top {
+  background-color: #faf3dd;
+  position: relative;
+  padding-top: 200px;
+}
+
+.bottom {
+  background-color: #faf3dd;
+  padding: 20px;
+}
+
+.me {
+  height: 150px;
+  width: 150px;
+  margin-top: 50px;
+}
+
+.adobe {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.programming {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bio {
+  font-size: 1.5625rem;
+  color: #89c9b8;
+  font-weight: normal;
+}
+
+.footer-link {
+  color: #8fc0a9;
+}
+
+.btn {
+  color: #8fc0a9;
+}
+
+.contact-me {
+  margin-bottom: 10px;
+  color: #8fc0a9;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.text {
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted none none none;
+  color: grey;
+  border-width: 10px;
+  width: 30%;
+  height: 1px;
+}
+
+.hello {
+  padding-bottom: 20px;
+}
